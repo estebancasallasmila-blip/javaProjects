@@ -12,7 +12,7 @@ public class Bank{
     System.out.println(bankOfGods.accountOne.getBalance());
     bankOfGods.accountOne.setBalance(5000);
     System.out.println(bankOfGods.accountOne.getBalance());
-    System.out.println(bankOfGods.accountOne.getMonthlyInterest());
+    System.out.println(bankOfGods.accountOne.getMontoInteres());
 
   }
 }
